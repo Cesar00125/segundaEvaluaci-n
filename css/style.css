@@ -1,0 +1,37 @@
+.header {
+    color: #000 !important;
+    font-weight: 100;
+}
+
+.contenedor {
+    margin-left: 10% !important;
+    margin-top: 30px !important;
+}
+
+.contenedor2 {
+    padding-top: 2rem;
+}
+
+.buscador {
+    border: 1px solid #eeeeee; 
+    text-align: center; 
+    width: 100%;
+}
+
+.tip {
+    border: 2px solid rgb(32, 32, 202); 
+    text-align: center; 
+    width: 100%; 
+    padding: 1.2em;
+    margin-top: 10px;
+}
+
+.footer-network {
+    background-color: rgb(41, 40, 40); 
+    color: rgb(175, 175, 175); 
+    padding: 6rem;
+}
+
+.socials {
+    padding: 1rem;
+}
